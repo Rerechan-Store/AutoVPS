@@ -73,10 +73,16 @@ NoobZ TCP SSL  : 9443
 ```
 
 ### PATH
-- [SSH] / | /custom
-- [VMESS] /vmessws | /worryfree | /kuota-habis | /whatever
-- [TROJAN] /trojanws
-- [VLESS] /vlessws
+```
+SSH: / | /custom
+Vmess: /vmessws | /worryfree | /kuota-habis | /whatever
+Vless: /vless | /vlessws
+Trojan: /trojan | /trojanws
+Shadowsocks: /ssws | /ssws/shadowsocks
+http Vmess: /love | /love-dinda
+http Vless: /rere | /rere-cantik
+http Trojan: /dinda | /dindaputri
+```
 
 ### SETTING CLOUDFLARE
 ```
@@ -104,7 +110,8 @@ Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 
  <p align="center"> 
  <img src="https://img.shields.io/badge/-Demo%20%26%20Script-brightgreen"> 
-![image](https://raw.githubusercontent.com/Rerechan-Store/AutoVPS/main/image.jpg)<br></html> 
+
+  ![image](https://raw.githubusercontent.com/Rerechan-Store/AutoVPS/main/image.jpg)<br></html> 
 <p align="center"> 
 <a href="https://t.me/fn_project"><img title="Made in Indonesia Malaysia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA & MALAYSIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a> 
  </p>
