@@ -10,7 +10,7 @@
 ### CREDIT
 - BASE CODE [@FN_Project](https://t.me/fn_project) & [@GITHUB](https://github.com/topics/autoscript)
 - Moded By [@praiman99](https://github.com/praiman99) & [@Rerechan02](https://t.me/Rerechan02) & [@L](https://t.me/farell_aditya_ardian)
-     <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202023-%20By%20Rerechan02%20『𝐅𝐍』%2C%20Inc-blue"></p> 
+     <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202024-%20By%20FN_Project%2C%20Inc-blue"></p> 
 
     
 ### INSTALL SCRIPT
